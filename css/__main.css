@@ -16,7 +16,7 @@
 		border-radius: 4px;
 
 		&:hover {
-			background-color: antiquewhite;
+			background-color: var(--secundaria);
 		}
 	}
 }
