@@ -1,10 +1,8 @@
 .footer {
-	background-color: var(--primaria);
-	grid-column: 1/-1;
-	grid-row: 8/-1;
-	height: 80px;
 	display: grid;
 	place-items: center;
+	background-color: var(--primaria);
+	height: 80px;
 
 	p {
 		color: var(--texto-invertido);
