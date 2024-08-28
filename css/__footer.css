@@ -1,6 +1,11 @@
+body:not(.footer) {
+	padding: 0;
+}
+
 .footer {
-	display: grid;
-	place-items: center;
+	grid-column: 1/-1;
+	align-content: center;
+	text-align: center;
 	background-color: var(--primaria);
 	height: 80px;
 

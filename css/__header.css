@@ -1,9 +1,9 @@
 .header {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	font-size: 1rem;
-	background-color: var(--primaria);
-	color: var(--texto-invertido);
-	height: 100px;
+	color: #3d405b;
+	padding: 20px 40px;
+
+	p {
+		font-weight: 700;
+		font-size: 2rem;
+	}
 }
