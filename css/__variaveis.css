@@ -1,0 +1,11 @@
+:root {
+	--primaria: #3d405b;
+	--secundaria: #81b29a;
+	--tercearia: #33415c;
+	--destaque: #e07a5f;
+
+	/*Cor de Texto*/
+	--texto-primario: #222;
+	--texto-secundario: #4b4b4b;
+	--texto-invertido: #efefef;
+}
